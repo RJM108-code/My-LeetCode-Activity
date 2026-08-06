@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0001-two-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0977-squares-of-a-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0977-squares-of-a-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Tree
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0977-squares-of-a-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
