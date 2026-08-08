@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0563-binary-tree-tilt) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0700-search-in-a-binary-search-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0563-binary-tree-tilt) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0700-search-in-a-binary-search-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2236-root-equals-sum-of-children) |
 ## Sorting
 |  |
 | ------- |
