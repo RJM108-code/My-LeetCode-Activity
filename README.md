@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0001-two-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0977-squares-of-a-sorted-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0001-two-sum) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0563-binary-tree-tilt) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
