@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0070-climbing-stairs) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Recursion
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2351-first-letter-to-appear-twice) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
