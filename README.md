@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0213-house-robber-ii) |
+| [0740-delete-and-earn](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0977-squares-of-a-sorted-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0001-two-sum) |
+| [0740-delete-and-earn](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0740-delete-and-earn) |
 | [0771-jewels-and-stones](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0771-jewels-and-stones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2351-first-letter-to-appear-twice) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0213-house-robber-ii) |
+| [0740-delete-and-earn](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
 |  |
