@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0392-is-subsequence) |
 | [0740-delete-and-earn](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
