@@ -16,19 +16,17 @@ class Solution
             }
         }
 
-        ArrayList<Integer> arr = new ArrayList<>();
+        int[] result = new int[Math.min(nums1.length, nums2.length)];
+        int index = 0;
         for(int i : nums2)
         {
             if(m1.containsKey(i) && m1.get(i)>0)
             {
-                arr.add(i);
-                int a = m1.get(i);
-                m1.put(i, --a);
+                result[index++] = i;
+                m1.put(i, m1.get(i) - 1);
             }
         }
 
-        int[] sol = arr.stream().mapToInt(Integer::intValue).toArray();
-
-        return sol;
+        return Arrays.copyOf(result, index);
     }
 }
