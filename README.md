@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0096-unique-binary-search-trees) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Recursion
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0096-unique-binary-search-trees) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0563-binary-tree-tilt) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0096-unique-binary-search-trees) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0096-unique-binary-search-trees) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0563-binary-tree-tilt) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0392-is-subsequence) |
