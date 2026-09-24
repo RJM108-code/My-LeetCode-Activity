@@ -47,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0096-unique-binary-search-trees) |
+| [0231-power-of-two](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0231-power-of-two) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0231-power-of-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2351-first-letter-to-appear-twice) |
 ## Memoization
 |  |
