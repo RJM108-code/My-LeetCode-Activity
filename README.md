@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0258-add-digits) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Recursion
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2460-apply-operations-to-an-array) |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0181-employees-earning-more-than-their-managers) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
