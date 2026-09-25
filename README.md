@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0263-ugly-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Recursion
 |  |
