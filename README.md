@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0392-is-subsequence) |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0062-unique-paths) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
