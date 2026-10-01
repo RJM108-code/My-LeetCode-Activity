@@ -8,13 +8,13 @@ class Solution {
         for(int i=1; i<=n; i++)
         {
             if(i%3==0 && i%5==0)
-            result.add(i,"FizzBuzz");
+            result.add("FizzBuzz");
             else if(i%3==0)
-            result.add(i,"Fizz");
+            result.add("Fizz");
             else if(i%5==0)
-            result.add(i,"Buzz");
+            result.add("Buzz");
             else
-            result.add(i,""+i);
+            result.add(""+i);
         }
 
         result.remove(0);
