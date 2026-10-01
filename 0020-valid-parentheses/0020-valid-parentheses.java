@@ -27,14 +27,4 @@ class Solution {
         return false;
 
     }
-
-    public static void main(String []args)
-    {
-        Solution ob=new Solution();
-        System.out.println(ob.isValid("()"));
-        System.out.println(ob.isValid("()[]{}"));
-        System.out.println(ob.isValid("(]"));
-        System.out.println(ob.isValid("([])"));
-        System.out.println(ob.isValid("([)]"));
-    }
 }
