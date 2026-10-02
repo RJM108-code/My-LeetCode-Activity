@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0213-house-robber-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0643-maximum-average-subarray-i) |
 | [0740-delete-and-earn](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0740-delete-and-earn) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
