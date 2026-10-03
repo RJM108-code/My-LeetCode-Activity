@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0415-add-strings) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Recursion
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0415-add-strings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2460-apply-operations-to-an-array) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0771-jewels-and-stones) |
