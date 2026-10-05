@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0389-find-the-difference) |
@@ -245,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0678-valid-parenthesis-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
