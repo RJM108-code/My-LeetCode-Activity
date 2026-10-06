@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0461-hamming-distance) |
 | [2351-first-letter-to-appear-twice](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2351-first-letter-to-appear-twice) |
 ## Memoization
 |  |
