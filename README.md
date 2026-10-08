@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0740-delete-and-earn) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0461-hamming-distance) |
