@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0441-arranging-coins) |
+| [1025-divisor-game](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1025-divisor-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Recursion
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1025-divisor-game) |
 ## Stack
 |  |
 | ------- |
@@ -254,4 +256,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0190-reverse-bits) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
