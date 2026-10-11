@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2460-apply-operations-to-an-array](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2460-apply-operations-to-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -268,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1025-divisor-game) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
