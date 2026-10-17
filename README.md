@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0643-maximum-average-subarray-i) |
 | [0740-delete-and-earn](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0746-min-cost-climbing-stairs) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0740-delete-and-earn](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0740-delete-and-earn) |
 | [0771-jewels-and-stones](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0771-jewels-and-stones) |
@@ -185,11 +187,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
