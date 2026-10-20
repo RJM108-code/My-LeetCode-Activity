@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2460-apply-operations-to-an-array) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0844-backspace-string-compare) |
 | [2351-first-letter-to-appear-twice](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
