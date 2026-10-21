@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1480-running-sum-of-1d-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2460-apply-operations-to-an-array) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0897-increasing-order-search-tree) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -292,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2778-sum-of-squares-of-special-elements) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
