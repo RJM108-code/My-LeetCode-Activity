@@ -10,28 +10,17 @@
  */
 class Solution {
     public ListNode swapPairs(ListNode head) {
-        // Base case: empty list or single node
         if (head == null || head.next == null) {
             return head;
         }
 
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
-        ListNode prev = dummy;
+        ListNode first = head;
+        ListNode second = head.next;
 
-        while (prev.next != null && prev.next.next != null) {
-            ListNode first = prev.next;
-            ListNode second = prev.next.next;
+        // Recursively process the rest of the list
+        first.next = swapPairs(second.next);
+        second.next = first;
 
-            // Swapping
-            first.next = second.next;
-            second.next = first;
-            prev.next = second;
-
-            // Move prev two nodes forward for the next pair
-            prev = first;
-        }
-
-        return dummy.next;
+        return second; // second is now the new head of this pair
     }
 }
