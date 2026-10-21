@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0024-swap-nodes-in-pairs) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0342-power-of-four) |
