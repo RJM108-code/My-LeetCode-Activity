@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0507-perfect-number) |
 | [1025-divisor-game](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1025-divisor-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Recursion
