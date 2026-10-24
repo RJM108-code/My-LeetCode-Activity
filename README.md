@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0595-big-countries) |
+| [1148-article-views-i](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1757-recyclable-and-low-fat-products) |
 ## Number Theory
 |  |
