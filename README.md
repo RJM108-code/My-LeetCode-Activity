@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0507-perfect-number) |
 | [1025-divisor-game](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1025-divisor-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1232-check-if-it-is-a-straight-line) |
+| [2409-count-days-spent-together](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2409-count-days-spent-together) |
 ## Recursion
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0844-backspace-string-compare) |
 | [2351-first-letter-to-appear-twice](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2351-first-letter-to-appear-twice) |
+| [2409-count-days-spent-together](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2409-count-days-spent-together) |
 ## Bit Manipulation
 |  |
 | ------- |
