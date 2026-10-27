@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0213-house-robber-ii) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0020-valid-parentheses) |
+| [0091-decode-ways](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0091-decode-ways) |
 | [0290-word-pattern](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0392-is-subsequence) |
