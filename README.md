@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0213-house-robber-ii) |
 | [0228-summary-ranges](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0228-summary-ranges) |
+| [0322-coin-change](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0678-valid-parenthesis-string) |
@@ -311,4 +314,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
