@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/0844-backspace-string-compare) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2351-first-letter-to-appear-twice](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2351-first-letter-to-appear-twice) |
 | [2409-count-days-spent-together](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2409-count-days-spent-together) |
 ## Bit Manipulation
