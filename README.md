@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1025-divisor-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2409-count-days-spent-together](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/3360-stone-removal-game) |
 ## Recursion
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/2460-apply-operations-to-an-array) |
+| [3360-stone-removal-game](https://github.com/RJM108-code/My-LeetCode-Activity/tree/master/3360-stone-removal-game) |
 ## DP on Trees
 |  |
 | ------- |
